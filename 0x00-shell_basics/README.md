@@ -1,1 +1,1 @@
-This script brings me home
+Display long content in directory
