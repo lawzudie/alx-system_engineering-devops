@@ -1,1 +1,1 @@
-Long listingwith hidden files
+Script for first directory
