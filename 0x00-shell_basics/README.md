@@ -1,1 +1,1 @@
-Uppercase movement script
+Script to delete every every
