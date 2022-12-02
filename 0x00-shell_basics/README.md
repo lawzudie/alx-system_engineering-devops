@@ -1,1 +1,1 @@
-Thisscript isforfile
+Thisis a symbolic link script
