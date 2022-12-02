@@ -1,1 +1,1 @@
-Script creates multi directories
+Scripts of listings
