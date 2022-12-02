@@ -1,1 +1,1 @@
-Script to delete every every
+Script creates multi directories
